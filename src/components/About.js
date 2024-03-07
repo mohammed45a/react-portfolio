@@ -32,7 +32,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="/Users/mohammed/bootcamp/react-portfolio/public/vietnam.jpeg"
           />
         </div>
       </div>
